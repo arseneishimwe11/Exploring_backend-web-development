@@ -1,9 +1,9 @@
-These are my files created while exploring the backend world.
+For making a good backend application ,
 Here are some notes to always remember:
  1.Packages to be installed 
 ****************************
 -Express , -Mongoose , -Lodash , -swagger-ui , -config  -dotenv , -passport 
--bcrypt,   -body-parse,-jwt
+-bcrypt,   -body-parse,-jsonwebtoken
 
 2.Everyfile in its respective place
 ***********************************
@@ -14,4 +14,7 @@ Here are some notes to always remember:
 -The server file
 -Routes
 -Config 
+
+3.Importing the necessary files in a new file 
+
 
